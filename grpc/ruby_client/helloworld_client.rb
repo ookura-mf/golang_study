@@ -1,5 +1,5 @@
 require 'grpc'
-require './helloworld_services_pb'
+require './proto/helloworld_services_pb'
 
 include Sample
 
